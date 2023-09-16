@@ -29,3 +29,10 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
+adding support for software ag bussiness units like wbemthods.io and aris support changed the look and feel of it coreespoiding to delite desgin elements
+
+
+adding the required api keys secrets and modifying the env file aswell
